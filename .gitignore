@@ -159,7 +159,8 @@ venv.bak/
 
 # Spyder project settings
 .spyderproject
-.spyproject
+.spyprojectls
+
 
 # Rope project settings
 .ropeproject
@@ -216,3 +217,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+#instructions pdf
+
+/IDL_A0_2026.pdf
